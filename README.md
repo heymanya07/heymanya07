@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Manya Sinha</h1>
 <h3 align="center">Miles to go before I sleep💜 </h3> 
 <h3>▫️Pre-final year undergrad @Noida Institute of Engineering and Technology pursuing Computer Science and Engineering (2021-25) </h3>
-<h3>▫️A happy-go-lucky girl determined to do something big in life. ▫️Free-time reader, writer and thinker who has good communication skills and has a bit different perspective towards life </h3>
+<h3>▫️A happy-go-lucky girl determined to do something big in life. </h3>
+<h3>▫️Free-time reader, writer and thinker who has good communication skills and has a bit different perspective towards life </h3>
 
 - 📫 How to reach me **thisismanya07@gmail.com**
 
